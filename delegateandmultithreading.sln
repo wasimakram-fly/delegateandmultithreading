@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegateandmultithreading", "delegateandmultithreading\delegateandmultithreading.csproj", "{D830F420-FB9D-4EFC-9FF5-FF6CF95CE5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate_ex1", "delegate_ex1\delegate_ex1.csproj", "{77FFEE57-4604-4830-9E8F-66A392261FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D830F420-FB9D-4EFC-9FF5-FF6CF95CE5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D830F420-FB9D-4EFC-9FF5-FF6CF95CE5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D830F420-FB9D-4EFC-9FF5-FF6CF95CE5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D830F420-FB9D-4EFC-9FF5-FF6CF95CE5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3390C5-A330-4B25-A7A1-9A445980FBBE}
+	EndGlobalSection
+EndGlobal
