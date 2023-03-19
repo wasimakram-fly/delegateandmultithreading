@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegateandmultithreading",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate_ex1", "delegate_ex1\delegate_ex1.csproj", "{77FFEE57-4604-4830-9E8F-66A392261FB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate_ex2", "delegate_ex2\delegate_ex2.csproj", "{4D1948A1-A648-46D7-BE67-CCD3C75C6335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multithreading_ex1", "multithreading_ex1\multithreading_ex1.csproj", "{5705ECDE-B35C-4C3A-BAB7-CAC317950579}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FFEE57-4604-4830-9E8F-66A392261FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1948A1-A648-46D7-BE67-CCD3C75C6335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1948A1-A648-46D7-BE67-CCD3C75C6335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1948A1-A648-46D7-BE67-CCD3C75C6335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1948A1-A648-46D7-BE67-CCD3C75C6335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5705ECDE-B35C-4C3A-BAB7-CAC317950579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5705ECDE-B35C-4C3A-BAB7-CAC317950579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5705ECDE-B35C-4C3A-BAB7-CAC317950579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5705ECDE-B35C-4C3A-BAB7-CAC317950579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
